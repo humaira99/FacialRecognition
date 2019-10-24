@@ -22,4 +22,3 @@ In this application, pictures of celebrities are used as the dataset and are the
 
 ## Screenshots 
 
-![Screenshot 1](/Desktop/1.png)
