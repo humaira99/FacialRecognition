@@ -22,3 +22,4 @@ In this application, pictures of celebrities are used as the dataset and are the
 
 ## Screenshots 
 
+[Screenshot](https://github.com/humaira99/FacialRecognition/blob/master/application.png?raw=true)
