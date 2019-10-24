@@ -22,4 +22,8 @@ In this application, pictures of celebrities are used as the dataset and are the
 
 ## Screenshots 
 
-[Screenshot](https://github.com/humaira99/FacialRecognition/blob/master/application.png?raw=true)
+<img src = "https://github.com/humaira99/FacialRecognition/blob/master/application.png?raw=true" width = "652px" height = "375px"><br><br>
+<img src = "https://github.com/humaira99/FacialRecognition/blob/master/Processing.png?raw=true" width = "652px" height = "375px"><br><br>
+<img src = "https://github.com/humaira99/FacialRecognition/blob/master/Recognised.png?raw=true" width = "652px" height = "375px"><br><br>
+<img src = "https://github.com/humaira99/FacialRecognition/blob/master/Unknown.png?raw=true" width = "652px" height = "375px"><br><br>
+
